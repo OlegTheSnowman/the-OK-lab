@@ -10,11 +10,7 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v3
-
-      # === Explicitly run git config before the nikola-action ===
-      - name: Set safe Git directory for Nikola
+      - name: Set safe Git directory
         run: git config --global --add safe.directory /github/workspace
-      # ==========================================================
 
-      - name: Build and Deploy Nikola
         uses: getnikola/nikola-action@v2
