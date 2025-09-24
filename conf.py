@@ -23,7 +23,7 @@ BLOG_TITLE = "The OK Lab"  # (translatable)
 SITE_URL = "https://example.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
+# BASE_URL = "https://olegthesnowman.github.io/the-OK-lab/"
 BLOG_EMAIL = "olegkhokhlov80@gmail.com"
 BLOG_DESCRIPTION = "Oleh Khokhlov - Translator with technical skills in Python, HTML, CSS, and JavaScript."  # (translatable)
 
@@ -696,7 +696,7 @@ REDIRECTIONS = []
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
 GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'main'
+GITHUB_DEPLOY_BRANCH = 'master'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'
