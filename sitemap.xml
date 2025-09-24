@@ -7,65 +7,52 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://example.com/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="uk" href="https://example.com/uk/" />
  </url>
  <url>
   <loc>https://example.com/2025/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/blog/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/blog/the-first-post/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="uk" href="https://example.com/uk/blog/the-first-post/" />
+  <loc>https://example.com/blog/2025/09/24/test/</loc>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/galleries/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/listings/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/uk/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/uk/2025/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/uk/archive.html</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/uk/blog/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/uk/blog/the-first-post/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://example.com/blog/the-first-post/" />
+  <loc>https://example.com/uk/blog/2025/09/24/test/</loc>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://example.com/blog/2025/09/24/test/" />
  </url>
  <url>
   <loc>https://example.com/uk/categories/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/uk/galleries/</loc>
-  <lastmod>2025-09-24T14:37:00Z</lastmod>
+  <lastmod>2025-09-24T14:51:00Z</lastmod>
  </url>
 </urlset>
